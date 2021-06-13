@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Larryking007
+- 👋 Hi, I’m @Mansa_musa
 - 👀 I’m interested in Front-end web dev.
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
