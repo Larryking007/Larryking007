@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mansa_musa
 - 👀 I’m interested in Front-end web dev.
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me @ajikobilanre007@gmail.com
 
 <!---
